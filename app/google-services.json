@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "552883533575",
-    "firebase_url": "https://basedatosfirebase2022-v-default-rtdb.firebaseio.com",
-    "project_id": "basedatosfirebase2022-v",
-    "storage_bucket": "basedatosfirebase2022-v.appspot.com"
+    "project_number": "588119542786",
+    "firebase_url": "https://ipvg2025-default-rtdb.firebaseio.com",
+    "project_id": "ipvg2025",
+    "storage_bucket": "ipvg2025.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:552883533575:android:e090321732d4a2f791b7a2",
+        "mobilesdk_app_id": "1:588119542786:android:2aa858d04163b9eb69eb1b",
         "android_client_info": {
           "package_name": "cl.isisur.basedatosfirebase2022"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCaJdkd1Dg99Xg14kSbzGupyQrtQaQI6YM"
+          "current_key": "AIzaSyAOw8Pq1sihCpLQ_I4R-NW61LLZlBDlXV0"
         }
       ],
       "services": {
